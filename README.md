@@ -1,3 +1,13 @@
+# React App
+
+npm start 
+
+## ERROR
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/72eac766-7c14-4871-a266-9f0683f2d81f">
+
+- 프론트에는 문제가 없어도, 서버가 돌아가지 않거나 응답하지 않을때 발생한다. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
