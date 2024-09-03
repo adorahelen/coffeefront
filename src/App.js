@@ -25,6 +25,7 @@ function App() {
     setItems(updatedItems);
   }
 
+  // axios 를 통해 서버와 통신 하는 부분
   useEffect(() => {
     axios.get('http://localhost:8080/api/v1/products')
         .then(v => setProducts(v.data));
